@@ -1,4 +1,4 @@
-# Task… Water Quality Monitoring
+# Water Quality Monitoring
 This monitoring has extended the initial study conducted by UC Davis on the Triangle Floodplain in 2004 (Gallo, unpublished data) with the intention of exploring how those results are affected by changes in spatial scale. We are replicating the methods and analysis at Triangle site to examine potential changes since the initial study, as well as conducing a pilot study at the Oneto site to examine if similar processes occur across the much larger floodplain.  
 
 The focus of this study has been changes in water quality as water flows across the floodplain. We are monitoring water quality changes during river-floodplain connectivity (flooding), floodplain draining, and floodplain ponding phases of the flood (Gallo, unpublished data).
@@ -22,10 +22,10 @@ Data analysis requires modeled flows across both flood plains, and as floods are
 
 ## Figures
 ### Figure 1 - Overview of study sites
-![Fig 1](fig1-overview.png)
+![Fig 1](figs/fig1-overview.png)
 
 ### Figure 2 - Oneto-Denier site with study locations
-![Fig 2](fig2-Oneto-Denier.png)
+![Fig 2](figs/fig2-Oneto-Denier.png)
 
 ### Figure 3 - Triangle site with  study locations
-![Fig 3](fig3-Triangle.png)
+![Fig 3](figs/fig3-Triangle.png)
