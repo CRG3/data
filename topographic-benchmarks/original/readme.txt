@@ -1,0 +1,1 @@
+All topographic data collected in WGS84 datum, UTM Zone10N projection
