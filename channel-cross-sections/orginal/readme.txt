@@ -1,0 +1,1 @@
+All topographic data collected using RTK GPS within WGS84 datum, UTM Zone10N projection.
