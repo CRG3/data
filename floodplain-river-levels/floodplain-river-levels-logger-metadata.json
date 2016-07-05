@@ -1,0 +1,262 @@
+[
+ {
+   "Location": "Cos_AbvTriNorth",
+   "Type": "River",
+   "Elevation": 1.726,
+   "2012": "",
+   "2013": null,
+   "2014": null,
+   "2015": "GlobalWater",
+   "2016": "GlobalWater"
+ },
+ {
+   "Location": "LWC",
+   "Type": "River",
+   "Elevation": 4.152,
+   "2012": "GlobalWater",
+   "2013": 32013219,
+   "2014": 2013219,
+   "2015": "32013219",
+   "2016": ""
+ },
+ {
+   "Location": "WestBasin",
+   "Type": "Breach",
+   "Elevation": 5.954,
+   "2012": "",
+   "2013": 21044051,
+   "2014": null,
+   "2015": "21044051",
+   "2016": "21052109"
+ },
+ {
+   "Location": "Tri_north",
+   "Type": "Breach",
+   "Elevation": 3.767,
+   "2012": "48767",
+   "2013": 21052169,
+   "2014": 21044051,
+   "2015": "21049517",
+   "2016": "32052593"
+ },
+ {
+   "Location": "OD_Excavation",
+   "Type": "Breach",
+   "Elevation": 6.597,
+   "2012": "",
+   "2013": null,
+   "2014": null,
+   "2015": "32037867",
+   "2016": "21052169"
+ },
+ {
+   "Location": "RingBreach",
+   "Type": "Breach",
+   "Elevation": 6.634,
+   "2012": "",
+   "2013": null,
+   "2014": null,
+   "2015": "32041599",
+   "2016": "32041594"
+ },
+ {
+   "Location": "Ring_Field",
+   "Type": "Floodplain",
+   "Elevation": 6.149,
+   "2012": "",
+   "2013": null,
+   "2014": null,
+   "2015": "21043945",
+   "2016": "32052616"
+ },
+ {
+   "Location": "ODF_1",
+   "Type": "Floodplain",
+   "Elevation": 6.147,
+   "2012": "",
+   "2013": null,
+   "2014": null,
+   "2015": "32041593",
+   "2016": "21049517"
+ },
+ {
+   "Location": "ODF_2",
+   "Type": "Floodplain",
+   "Elevation": 5.643,
+   "2012": "",
+   "2013": null,
+   "2014": null,
+   "2015": "32041594",
+   "2016": "21052129"
+ },
+ {
+   "Location": "ODF_3",
+   "Type": "Floodplain",
+   "Elevation": 5.333,
+   "2012": "",
+   "2013": null,
+   "2014": null,
+   "2015": "32041586",
+   "2016": "21043945"
+ },
+ {
+   "Location": "ODF_4",
+   "Type": "Floodplain",
+   "Elevation": 4.938,
+   "2012": "",
+   "2013": null,
+   "2014": null,
+   "2015": "21052109",
+   "2016": "21052110"
+ },
+ {
+   "Location": "SwaleBreach_1",
+   "Type": "Breach",
+   "Elevation": 3.451,
+   "2012": "",
+   "2013": null,
+   "2014": null,
+   "2015": "32037874",
+   "2016": ""
+ },
+ {
+   "Location": "SwaleBreach_2",
+   "Type": "Breach",
+   "Elevation": 3.642,
+   "2012": "",
+   "2013": null,
+   "2014": null,
+   "2015": "32037874",
+   "2016": "32052592"
+ },
+ {
+   "Location": "TwinCities_West",
+   "Type": "River",
+   "Elevation": 3.035,
+   "2012": "",
+   "2013": null,
+   "2014": null,
+   "2015": "32041675",
+   "2016": "32052602"
+ },
+ {
+   "Location": "Cos_Overflow",
+   "Type": "River",
+   "Elevation": 2.645,
+   "2012": "",
+   "2013": null,
+   "2014": null,
+   "2015": "21052129",
+   "2016": "32041586"
+ },
+ {
+   "Location": "Tri_west",
+   "Type": "Breach",
+   "Elevation": 3.298,
+   "2012": "",
+   "2013": null,
+   "2014": null,
+   "2015": "21052110",
+   "2016": "21044051"
+ },
+ {
+   "Location": "LOGGER_A",
+   "Type": "River",
+   "Elevation": 5.87,
+   "2012": "",
+   "2013": null,
+   "2014": null,
+   "2015": "",
+   "2016": "32037874"
+ },
+ {
+   "Location": "LOGGER_B",
+   "Type": "River",
+   "Elevation": 4.806,
+   "2012": "",
+   "2013": null,
+   "2014": null,
+   "2015": "",
+   "2016": "32041593"
+ },
+ {
+   "Location": "LOGGER_C",
+   "Type": "River",
+   "Elevation": 5.053,
+   "2012": "",
+   "2013": null,
+   "2014": null,
+   "2015": "",
+   "2016": "32013219"
+ },
+ {
+   "Location": "LOGGER_D",
+   "Type": "River",
+   "Elevation": 5.361,
+   "2012": "",
+   "2013": null,
+   "2014": null,
+   "2015": "",
+   "2016": "32041599"
+ },
+ {
+   "Location": "NW_SPLAY",
+   "Type": "Floodplain",
+   "Elevation": 5.537,
+   "2012": "",
+   "2013": null,
+   "2014": 11054628,
+   "2015": "",
+   "2016": ""
+ },
+ {
+   "Location": "SITE_201",
+   "Type": "Floodplain",
+   "Elevation": 5.816,
+   "2012": "",
+   "2013": null,
+   "2014": 21052110,
+   "2015": "",
+   "2016": ""
+ },
+ {
+   "Location": "SITE_104",
+   "Type": "Floodplain",
+   "Elevation": 5.771,
+   "2012": "",
+   "2013": null,
+   "2014": 21052109,
+   "2015": "",
+   "2016": ""
+ },
+ {
+   "Location": "SITE_208",
+   "Type": "Floodplain",
+   "Elevation": 5.324,
+   "2012": "",
+   "2013": null,
+   "2014": 21049517,
+   "2015": "",
+   "2016": ""
+ },
+ {
+   "Location": "SITE_108",
+   "Type": "Floodplain",
+   "Elevation": 4.894,
+   "2012": "",
+   "2013": null,
+   "2014": 21043945,
+   "2015": "",
+   "2016": ""
+ },
+ {
+   "Location": "SITE_115",
+   "Type": "Floodplain",
+   "Elevation": 6.158,
+   "2012": "",
+   "2013": null,
+   "2014": 21052129,
+   "2015": "",
+   "2016": ""
+ }
+]
