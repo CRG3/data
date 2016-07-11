@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 1,
+        "id": "USGS-michigan-bar-discharge",
+        "name": "USGS Michigan Bar Discharge",
+        "years": [1908,2016],
+        "variable": "Flow",
+        "details": "Daily discharge (m3/s) for the period of record (WY 1908-2016 to date) at the USGS Michigan Bar gage station on the Cosumnes River, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.04527115821838,
+          38.50035521924391
+        ]
+      }
+  }]
+}

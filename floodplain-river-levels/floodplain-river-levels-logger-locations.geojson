@@ -1,0 +1,369 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.3903128,38.27702461,1.726 ]
+    },
+    "properties": {
+    "Location":"Cos_AbvTriNorth",
+    "Type":"River",
+    "Easting":640797.292,
+    "Northing":4237777.562,
+    "WaterYear":"2015, 2016"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.3776138,38.30841224,4.152 ]
+    },
+    "properties": {
+    "Location":"LWC",
+    "Type":"River",
+    "Easting":641847,
+    "Northing":4241280,
+    "WaterYear":"2012, 2013, 2014, 2015"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.3826985,38.30193104,5.954 ]
+    },
+    "properties": {
+    "Location":"WestBasin",
+    "Type":"Breach",
+    "Easting":641415,
+    "Northing":4240553,
+    "WaterYear":"2013,  2015, 2016"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.392333,38.27604847,3.767 ]
+    },
+    "properties": {
+    "Location":"Tri_north",
+    "Type":"Breach",
+    "Easting":640622.467,
+    "Northing":4237666.168,
+    "WaterYear":"2012, 2013,  2014, 2015, 2016"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.3785522,38.30915732,6.597 ]
+    },
+    "properties": {
+    "Location":"OD_Excavation",
+    "Type":"Breach",
+    "Easting":641763.495,
+    "Northing":4241361.24,
+    "WaterYear":"2015, 2016"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.3802347,38.308965,6.634 ]
+    },
+    "properties": {
+    "Location":"RingBreach",
+    "Type":"Breach",
+    "Easting":641616.758,
+    "Northing":4241337.319,
+    "WaterYear":"2015, 2016"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.3837063,38.30751206,6.149 ]
+    },
+    "properties": {
+    "Location":"Ring_Field",
+    "Type":"Floodplain",
+    "Easting":641316.036,
+    "Northing":4241170.774,
+    "WaterYear":"2015, 2016"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.3853898,38.30520898,6.147 ]
+    },
+    "properties": {
+    "Location":"ODF_1",
+    "Type":"Floodplain",
+    "Easting":641173.306,
+    "Northing":4240912.631,
+    "WaterYear":"2015, 2016"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.3851625,38.30026083,5.643 ]
+    },
+    "properties": {
+    "Location":"ODF_2",
+    "Type":"Floodplain",
+    "Easting":641202.776,
+    "Northing":4240363.892,
+    "WaterYear":"2015, 2016"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.3831126,38.29597201,5.333 ]
+    },
+    "properties": {
+    "Location":"ODF_3",
+    "Type":"Floodplain",
+    "Easting":641390.355,
+    "Northing":4239891.104,
+    "WaterYear":"2015, 2016"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.3816231,38.29184499,4.938 ]
+    },
+    "properties": {
+    "Location":"ODF_4",
+    "Type":"Floodplain",
+    "Easting":641528.632,
+    "Northing":4239435.416,
+    "WaterYear":"2015, 2016"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.3799664,38.29333574,3.451 ]
+    },
+    "properties": {
+    "Location":"SwaleBreach_1",
+    "Type":"Breach",
+    "Easting":641670.619,
+    "Northing":4239603.38,
+    "WaterYear":"2015"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.3809864,38.29425574,3.642 ]
+    },
+    "properties": {
+    "Location":"SwaleBreach_2",
+    "Type":"Breach",
+    "Easting":641579.627,
+    "Northing":4239703.908,
+    "WaterYear":"2015, 2016"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.380602,38.2907818,3.035 ]
+    },
+    "properties": {
+    "Location":"TwinCities_West",
+    "Type":"River",
+    "Easting":641620,
+    "Northing":4239319,
+    "WaterYear":"2015, 2016"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.3862461,38.27655246,2.645 ]
+    },
+    "properties": {
+    "Location":"Cos_Overflow",
+    "Type":"River",
+    "Easting":641153.942,
+    "Northing":4237731.37,
+    "WaterYear":"2015, 2016"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.3978635,38.26964324,3.298 ]
+    },
+    "properties": {
+    "Location":"Tri_west",
+    "Type":"Breach",
+    "Easting":640151,
+    "Northing":4236947,
+    "WaterYear":"2015, 2016"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.3706663,38.31716225,5.87 ]
+    },
+    "properties": {
+    "Location":"LOGGER_A",
+    "Type":"River",
+    "Easting":642437.34,
+    "Northing":4242261.664,
+    "WaterYear":"2016"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.3730421,38.31488844,4.806 ]
+    },
+    "properties": {
+    "Location":"LOGGER_B",
+    "Type":"River",
+    "Easting":642234.079,
+    "Northing":4242005.682,
+    "WaterYear":"2016"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.3741,38.31361078,5.053 ]
+    },
+    "properties": {
+    "Location":"LOGGER_C",
+    "Type":"River",
+    "Easting":642144.085,
+    "Northing":4241862.274,
+    "WaterYear":"2016"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.375832,38.31158764,5.361 ]
+    },
+    "properties": {
+    "Location":"LOGGER_D",
+    "Type":"River",
+    "Easting":641996.601,
+    "Northing":4241635.106,
+    "WaterYear":"2016"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.3863226,38.30311636,5.537 ]
+    },
+    "properties": {
+    "Location":"NW_SPLAY",
+    "Type":"Floodplain",
+    "Easting":641095.789,
+    "Northing":4240678.992,
+    "WaterYear":"2014"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.3837128,38.29940952,5.816 ]
+    },
+    "properties": {
+    "Location":"SITE_201",
+    "Type":"Floodplain",
+    "Easting":641331.192,
+    "Northing":4240271.64,
+    "WaterYear":"2014"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.3818709,38.29684251,5.771 ]
+    },
+    "properties": {
+    "Location":"SITE_104",
+    "Type":"Floodplain",
+    "Easting":641497.254,
+    "Northing":4239989.602,
+    "WaterYear":"2014"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.3849139,38.29774594,5.324 ]
+    },
+    "properties": {
+    "Location":"SITE_208",
+    "Type":"Floodplain",
+    "Easting":641229.388,
+    "Northing":4240085.199,
+    "WaterYear":"2014"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.3816236,38.29184596,4.894 ]
+    },
+    "properties": {
+    "Location":"SITE_108",
+    "Type":"Floodplain",
+    "Easting":641528.59,
+    "Northing":4239435.523,
+    "WaterYear":"2014"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.3853897,38.30520893,6.158 ]
+    },
+    "properties": {
+    "Location":"SITE_115",
+    "Type":"Floodplain",
+    "Easting":641173.313,
+    "Northing":4240912.626,
+    "WaterYear":"2014"
+    }
+  }
+]
+}
